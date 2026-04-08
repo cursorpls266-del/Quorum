@@ -59,3 +59,6 @@ To verify any ruling, run: `git show <commit>`
 | 2026-04-06T21:24:00.388Z | 1490814218109321298 | 1490810120890744998 | DELETE | RULE-002 | Unsolicited link to personal GitHub account in a public channel | — | b9f7182ec1eeeb20f050b5d3ca12c67dd7def7b4 |
 
 **Decision pathway:** Matched RULE-002 → Unsolicited link to personal GitHub account in a public channel → confidence undefined → DELETE
+| 2026-04-08T18:57:35.527Z | 1490814218109321298 | 1490810120890744998 | DELETE | RULE-001 | Hate speech and racial slurs are strictly prohibited | — | 9e6a94602712045c0ad1bf73eea40a92916b08cf |
+
+**Decision pathway:** Matched RULE-001 → Hate speech and racial slurs are strictly prohibited → confidence undefined → DELETE

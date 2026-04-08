@@ -184,7 +184,7 @@ client.on('messageCreate', async (message) => {
           `You can verify it existed at this commit by running:\n` +
           `\`git show ${result.commit || commitHash}\`\n\n` +
           `**Think this rule is wrong?** Propose an amendment:\n` +
-          `https://github.com/Hari19hk/quorum/pulls\n` +
+          `https://github.com/Hari19hk/Quorum/pulls\n` +
           `Open a PR titled: \`Amend ${result.rule}: [your proposed change]\``
         );
       } catch {
