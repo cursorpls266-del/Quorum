@@ -6,9 +6,9 @@ author: Hari Kishore
 license: MIT
 
 model:
-  preferred: "groq:llama-3.3-70b-versatile"
+  preferred: "ollama:gemma3:4b@http://127.0.0.1:11434/v1"
   fallback:
-    - "groq:llama-3.1-8b-instant"
+    - "ollama:gemma3:4b@http://127.0.0.1:11434/v1"
   constraints:
     temperature: 0.1
     max_tokens: 500
