@@ -118,6 +118,18 @@ strictly prohibited. Escalate immediately.
 
 ---
 
+### RULE-006: English Only
+All messages in public channels must be written primarily in English 
+to ensure the entire community can participate in conversations.
+
+Exception: Brief greetings in other languages or code snippets are permitted.
+
+- Added: 2026-04-10
+- PR: #(will be assigned)
+- Approved by: community vote
+
+---
+
 ## Amendment Process
 
 Any community member may propose a change to the Community Rules 
