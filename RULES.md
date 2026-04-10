@@ -130,6 +130,11 @@ Exception: Brief greetings in other languages or code snippets are permitted.
 
 ---
 
+### RULE-007: No ALL CAPS Messages
+Messages written entirely in capital letters are not permitted.
+
+---
+
 ## Amendment Process
 
 Any community member may propose a change to the Community Rules 
