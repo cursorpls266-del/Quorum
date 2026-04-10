@@ -94,7 +94,7 @@ spam, repeated single-character messages, and copy-pasted walls of text.
 
 ---
 
-### RULE-004: No Doxxing
+### RULE-004: Doxxing
 Sharing anyone's real name, address, phone number, workplace, or any 
 personally identifying information without their explicit consent is 
 strictly prohibited. This will result in immediate escalation to human 
